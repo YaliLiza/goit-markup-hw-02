@@ -46,7 +46,7 @@
 }
 
 .menu-link:hover{
-    color: var(--OCEAN, #404BBF);
+    color: var(--OCEAN, #404bbf);
 }
 
 .address{
@@ -67,7 +67,7 @@
 }
 
 .contacts-address:hover{
-    color: var(--OCEAN, #404BBF);
+    color: var(--OCEAN, #404bbf);
         /* Body */
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
@@ -95,19 +95,32 @@
             line-height: 60px;
             /* 107.143% */
             letter-spacing: 1.12px;
+            line-height: 1.07;
     }
     .header-background{
         
             background: var(--NAVY-BLUE, #2E2F42);
+            
     }
 
         .registration{
             background: var(--IRIS, #4D5AE5);
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #ffffff;
+            
+
                  
     }
 
     .registration:hover{
         background: var(--OCEAN, #404BBF);
+        cursor: pointer;
+         
+
     }
 
     .kinds{
