@@ -121,7 +121,12 @@
         background-color: #404BBF
     }
 
-    
+    .registration:hover{
+        background-color: #404BBF;
+         
+         
+
+    }
 
     .kinds{
         color: var(--NAVY-BLUE, #2E2F42);
