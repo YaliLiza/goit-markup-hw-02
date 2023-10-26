@@ -159,11 +159,19 @@
             font-size: 36px;
             font-style: normal;
             font-weight: 700;
-            line-height: 40px;
+            line-height: 1.11;
             /* 111.111% */
             letter-spacing: 0.72px;
             text-transform: capitalize
     }
+
+             .team-li{
+                background-color: #FFFFFF;
+             }
+
+
+
+
     .names{
         color: var(--NAVY-BLUE, #2E2F42);
             /* Header 3 */
@@ -194,10 +202,10 @@
             font-size: 36px;
             font-style: normal;
             font-weight: 700;
-            line-height: 40px;
+            line-height: 1.11;
             /* 111.111% */
             letter-spacing: 0.72px;
-            text-transform: capitalize;
+             
     }
 
     .service{
@@ -240,4 +248,8 @@
     }
         .logotype-studio{
             color: var(--CLOUD, #F4F4FD);
+        }
+
+        .span-footer{
+            color: #f4f4fd;
         }
