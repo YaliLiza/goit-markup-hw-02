@@ -49,6 +49,11 @@
     color: var(--OCEAN, #404BBF);
 }
 
+.address{
+    font-style: normal;
+}
+
+
 .contacts-address{
     color: var(--SLATE, #434455);
         /* Body */
