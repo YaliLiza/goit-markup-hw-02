@@ -6,8 +6,6 @@
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-style: normal;
-        font-weight: 700;
-        line-height: 21px;
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
@@ -18,8 +16,6 @@
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-style: normal;
-        font-weight: 700;
-        line-height: 21px;
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
@@ -31,8 +27,6 @@
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-style: normal;
-        font-weight: 500;
-        line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
 }
@@ -47,8 +41,6 @@
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-style: normal;
-        font-weight: 400;
-        line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
 }
@@ -59,8 +51,6 @@
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
             font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
             /* 150% */
             letter-spacing: 0.32px;
         }
@@ -68,6 +58,7 @@
     .basic{
         font-family: 'Roboto', sans-serif;
         background: #FFF;
+        color: #434455;
     }
 
     .title{
@@ -77,8 +68,6 @@
             font-family: 'Roboto', sans-serif;
             font-size: 56px;
             font-style: normal;
-            font-weight: 700;
-            line-height: 60px;
             /* 107.143% */
             letter-spacing: 1.12px;
     }
@@ -88,13 +77,11 @@
     }
 
         .registration{
-        display: inline-flex;
-            padding: 16px 32px;
             align-items: flex-start;
             gap: 10px;
-            border-radius: 4px;
+            
                 background: var(--IRIS, #4D5AE5);
-                box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+                 
     }
 
     .registration:hover{
@@ -107,8 +94,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 20px;
             font-style: normal;
-            font-weight: 500;
-            line-height: 24px;
+             
             /* 120% */
             letter-spacing: 0.4px;
     }
@@ -119,8 +105,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
             font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
+            
             /* 150% */
             letter-spacing: 0.32px;
     }
@@ -130,13 +115,12 @@
     }
     .team-description{
         color: var(--NAVY-BLUE, #2E2F42);
-            text-align: center;
+             
             /* Header 2 */
             font-family: 'Roboto', sans-serif;
             font-size: 36px;
             font-style: normal;
-            font-weight: 700;
-            line-height: 40px;
+            
             /* 111.111% */
             letter-spacing: 0.72px;
             text-transform: capitalize
@@ -147,8 +131,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 20px;
             font-style: normal;
-            font-weight: 500;
-            line-height: 24px;
+             
             /* 120% */
             letter-spacing: 0.4px;
     }
@@ -158,8 +141,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
             font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
+             
             /* 150% */
             letter-spacing: 0.32px;
     }
@@ -170,8 +152,7 @@
             /* Header 2 */
             font-size: 36px;
             font-style: normal;
-            font-weight: 700;
-            line-height: 40px;
+           
             /* 111.111% */
             letter-spacing: 0.72px;
             text-transform: capitalize;
@@ -183,8 +164,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 20px;
             font-style: normal;
-            font-weight: 500;
-            line-height: 24px;
+           
             /* 120% */
             letter-spacing: 0.4px;
     }
@@ -195,8 +175,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
             font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
+             
             /* 150% */
             letter-spacing: 0.32px;
     }
@@ -210,8 +189,7 @@
             font-family: 'Roboto', sans-serif;
             font-size: 16px;
             font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
+            
             /* 150% */
             letter-spacing: 0.32px;
     }
