@@ -206,6 +206,10 @@ letter-spacing: 0.03em;
             letter-spacing: 0.32px;
     }
 
+    .registration:focus{
+        background-color: #404BBF
+    }
+
     .products{
         color: var(--NAVY-BLUE, #2E2F42);
             font-family: 'Roboto', sans-serif;
