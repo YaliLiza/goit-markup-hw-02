@@ -277,4 +277,6 @@ letter-spacing: 0.03em;
             color: #f4f4fd;
         }
 
-        
+        .contacts-address:focus{
+            color: #404bbf
+        }
