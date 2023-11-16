@@ -21,7 +21,11 @@ letter-spacing: 0.03em;
     color:#2e2f42;
   }
 
+  .menu-item:focus{
+    color: #404bbf
 
+
+  }
 
 .logotype{
     color: var(--NAVY-BLUE, #4d5ae5 );
@@ -56,6 +60,10 @@ letter-spacing: 0.03em;
     color: var(--OCEAN, #404bbf);
 }
 
+
+.menu-link:focus{
+    color: #404bbf;
+}
 .address{
     font-style: normal;
 }
