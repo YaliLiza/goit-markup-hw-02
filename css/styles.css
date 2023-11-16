@@ -12,10 +12,17 @@
         letter-spacing: 0.54px;
         text-transform: uppercase;
         line-height: 1.17;
+letter-spacing: 0.03em;
 
 
 }
   
+  .span-header{
+    color:#2e2f42;
+  }
+
+
+
 .logotype{
     color: var(--NAVY-BLUE, #4d5ae5 );
         font-family: 'Raleway', sans-serif;
